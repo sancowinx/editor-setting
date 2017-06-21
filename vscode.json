@@ -1,0 +1,17 @@
+{
+  "files.autoSave": "onWindowChange",
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "boundary",
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "on",
+  "workbench.editor.openPositioning": "last",
+  "workbench.editor.closeOnFileDelete": false,
+  "window.restoreFullscreen": true,
+  "window.title": "${activeEditorMedium}${separator}${rootName}",
+  "terminal.external.osxExec": "iTerm.app",
+  "telemetry.enableTelemetry": false,
+  "telemetry.enableCrashReporter": false,
+  "git.enabled": false
+}
