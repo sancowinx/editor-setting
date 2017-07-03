@@ -1,8 +1,9 @@
 {
-  "files.autoSave": "onWindowChange",
+  "files.autoSave": "onFocusChange",
   "files.trimTrailingWhitespace": true,
   "files.insertFinalNewline": true,
   "editor.tabSize": 2,
+  "editor.trimAutoWhitespace": true,
   "editor.renderWhitespace": "boundary",
   "editor.formatOnSave": true,
   "editor.wordWrap": "on",
@@ -13,5 +14,8 @@
   "terminal.external.osxExec": "iTerm.app",
   "telemetry.enableTelemetry": false,
   "telemetry.enableCrashReporter": false,
-  "git.enabled": false
+  "git.enabled": false,
+  "[scss]": {},
+  "[sass]": {},
+  "window.zoomLevel": 0
 }
