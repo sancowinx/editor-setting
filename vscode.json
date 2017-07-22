@@ -1,11 +1,12 @@
+// Place your settings in this file to overwrite the default settings
 {
   "files.autoSave": "onFocusChange",
   "files.trimTrailingWhitespace": true,
   "files.insertFinalNewline": true,
   "editor.tabSize": 2,
+  "editor.fontSize": 12,
   "editor.trimAutoWhitespace": true,
   "editor.renderWhitespace": "boundary",
-  "editor.formatOnSave": true,
   "editor.wordWrap": "on",
   "workbench.editor.openPositioning": "last",
   "workbench.editor.closeOnFileDelete": false,
@@ -14,8 +15,10 @@
   "terminal.external.osxExec": "iTerm.app",
   "telemetry.enableTelemetry": false,
   "telemetry.enableCrashReporter": false,
-  "git.enabled": false,
+  "git.enabled": true,
   "[scss]": {},
   "[sass]": {},
-  "window.zoomLevel": 0
+  "window.zoomLevel": -1,
+  "extensions.ignoreRecommendations": false,
+  "todohighlight.isEnable": true
 }
